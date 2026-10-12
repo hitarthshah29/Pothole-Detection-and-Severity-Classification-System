@@ -1,0 +1,10 @@
+# Python dependencies for Pothole Detection and Severity Classification System
+# This project uses TensorFlow/Keras, MobileNetV2, and Streamlit.
+
+tensorflow
+streamlit
+Pillow
+numpy
+pandas
+scikit-learn
+matplotlib

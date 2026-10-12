@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dataset files (Dataset should be kept local, not pushed to Git)
+data/
+
+# Model files
+models/
+*.h5
+*.keras
+
+# Output files
+outputs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
